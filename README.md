@@ -12,22 +12,36 @@ Thanks to the rise in information technologies, it is easy for a user of the sys
 In this project, I used the data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. I compared the system usage between three large cities: Chicago, New York City, and Washington, DC. to write a code for this project to provide the following information
 
 1. Popular times of travel
+
 *most common month
+
 *most common day of week
+
 *most common hour of day
 
+
 2. Popular stations and trip
+
 *most common start station
+
 *most common end station
+
 *most common trip from start to end
 
+
 3. Trip duration
+
 *total travel time
+
 *average travel time
 
+
 4. User info
+
 *counts of each user type
+
 *counts of each gender (which is only available for NYC and Chicago)
+
 *earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Files used
