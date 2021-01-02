@@ -31,7 +31,7 @@ In this project, I used the data provided by Motivate, a bike share system provi
 *earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ### Files used
-.py, .csv, .git, .gitignore, .xml, .iml
+.py, .csv, .git, .gitignore, .xml and .iml
 
 ### Credits
 Udacity
