@@ -38,7 +38,7 @@ Which month?
 1. January      5. May
 2. February     6. June
 3. March        7. All
-4. April        
+4. April
 ''').lower()
         if month not in months:
             print("Invalid input, please try again!")
@@ -53,10 +53,10 @@ Which day?
 1. Monday       5. Friday
 2. Tuesday      6. Saturday
 3. Wednesday    7. Sunday
-4. Thursday     8. All          
+4. Thursday     8. All
 ''').title()
         if day not in days:
-            print("Invalid input, please try again!")
+            print("Invalid input, can you please try again!")
         else:
             day = 'All'
             break
