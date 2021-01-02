@@ -34,4 +34,4 @@ In this project, I used the data provided by Motivate, a bike share system provi
 .py, .csv, .git, .gitignore, .xml and .iml
 
 ### Credits
-Udacity
+All the credits goes to Udacity for teaching me this course and inspiring me to learn more.
